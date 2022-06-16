@@ -2,8 +2,8 @@
     "name": "ms-fontawesome",
     "version": "1.0.0",
     "description": "An Example component library for react ",
-    "main": "Fontawesome/react-fontawesome/index.js",
-    "module": "Fontawesome/react-fontawesome/index.js",
+    "main": "dis/react-fontawesome/index.js",
+    "module":"dis/react-fontawesome/index.js",
     "files": [
         "dist"
     ],
@@ -29,9 +29,8 @@
         "typescript": "^4.7.3"
     },
     "peerDependencies": {
-        "antd": ">=4",
         "react": ">=16",
-        "react-dom": "^>=16",
+        "react-dom": ">=16",
         "react-helmet-async": ">=1.3.0"
     },
     "dependencies": {
