@@ -1,0 +1,31 @@
+{
+  "description": "The iconic font, CSS, and SVG framework",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "svg",
+    "bootstrap"
+  ],
+  "homepage": "https://fontawesome.com",
+  "bugs": {
+    "url": "https://github.com/manysale/Font-Awesome/issues"
+  },
+  "author": "The Font Awesome Team (https://github.com/orgs/manysale/people)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manysale/Font-Awesome.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "version": "0.2.32",
+  "name": "@manysale/fontawesome-common-types",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "scripts": {
+    "postinstall": "node attribution.js"
+  },
+  "main": "attribution.js"
+}
