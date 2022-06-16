@@ -1,5 +1,5 @@
 {
-  "name": "ms-fontawesome",
+  "name": "ms-fontawesome5",
   "version": "1.0.0",
   "description": "An Example component library for react ",
   "main": "src/react-fontawesome/index.js",
