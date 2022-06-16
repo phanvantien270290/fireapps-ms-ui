@@ -1,5 +1,5 @@
 {
-    "name": "ms-libary-ui",
+    "name": "ms-fontawesome",
     "version": "1.0.0",
     "description": "An Example component library for react ",
     "main": "Fontawesome/react-fontawesome/index.js",
