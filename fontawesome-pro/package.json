@@ -23,7 +23,7 @@
     "dependencies": {},
     "version": "5.15.1",
     "main": "js/fontawesome.js",
-    "name": "@manysale/fontawesome-pro",
+    "name": "@ds/fontawesome-pro",
     "style": "css/fontawesome.css",
     "license": "MT",
     "scripts": {

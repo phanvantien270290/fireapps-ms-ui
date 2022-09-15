@@ -1,4 +1,4 @@
-import { IconDefinition, IconPrefix, IconName } from '@manysale/fontawesome-common-types';
+import { IconDefinition, IconPrefix, IconName } from '@ds/fontawesome-common-types';
 export const definition: IconDefinition;
 export const faChevronCircleRight: IconDefinition;
 export const prefix: IconPrefix;

@@ -1,22 +1,22 @@
 {
     "_args": [
         [
-            "@manysale/fontawesome-svg-core@1.2.32"
+            "@ds/fontawesome-svg-core@1.2.32"
         ]
     ],
-    "_from": "@manysale/fontawesome-svg-core@1.2.32",
-    "_id": "@manysale/fontawesome-svg-core@1.2.32",
+    "_from": "@ds/fontawesome-svg-core@1.2.32",
+    "_id": "@ds/fontawesome-svg-core@1.2.32",
     "_inBundle": false,
     "_integrity": "sha512-XjqyeLCsR/c/usUpdWcOdVtWFVjPbDFBTQkn2fQRrWhhUoxriQohO2RWDxLyUM8XpD+Zzg5xwJ8gqTYGDLeGaQ==",
-    "_location": "/@manysale/fontawesome-svg-core",
+    "_location": "/@ds/fontawesome-svg-core",
     "_phantomChildren": {},
     "_requested": {
         "type": "version",
         "registry": true,
-        "raw": "@manysale/fontawesome-svg-core@1.2.32",
-        "name": "@manysale/fontawesome-svg-core",
-        "escapedName": "@manysale%2ffontawesome-svg-core",
-        "scope": "@manysale",
+        "raw": "@ds/fontawesome-svg-core@1.2.32",
+        "name": "@ds/fontawesome-svg-core",
+        "escapedName": "@ds%2ffontawesome-svg-core",
+        "scope": "@ds",
         "rawSpec": "1.2.32",
         "saveSpec": null,
         "fetchSpec": "1.2.32"
@@ -24,7 +24,7 @@
     "_requiredBy": [
         "/"
     ],
-    "_resolved": "https://npm.fontawesome.com/@manysale/fontawesome-svg-core/-/1.2.32/fontawesome-svg-core-1.2.32.tgz",
+    "_resolved": "https://npm.fontawesome.com/@ds/fontawesome-svg-core/-/1.2.32/fontawesome-svg-core-1.2.32.tgz",
     "_spec": "1.2.32",
     "_where": "/Users/lexuanvu/Desktop/Desktop/flow/flowio-fe",
     "author": {
@@ -58,7 +58,7 @@
         }
     ],
     "dependencies": {
-        "@manysale/fontawesome-common-types": "^0.2.32"
+        "@ds/fontawesome-common-types": "^0.2.32"
     },
     "description": "The iconic font, CSS, and SVG framework",
     "engines": {
@@ -77,7 +77,7 @@
     "license": "MIT",
     "main": "index.js",
     "module": "index.es.js",
-    "name": "@manysale/fontawesome-svg-core",
+    "name": "@ds/fontawesome-svg-core",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/manysale/Font-Awesome.git"

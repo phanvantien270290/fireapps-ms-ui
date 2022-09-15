@@ -1,19 +1,19 @@
-# @manysale/fontawesome-svg-core - SVG with JavaScript version
+# @ds/fontawesome-svg-core - SVG with JavaScript version
 
 > "I came here to chew bubblegum and install Font Awesome 5 - and I'm all out of bubblegum"
 
-[![npm](https://img.shields.io/npm/v/@manysale/fontawesome-svg-core.svg?style=flat-square)](https://www.npmjs.com/package/@manysale/fontawesome-svg-core)
+[![npm](https://img.shields.io/npm/v/@ds/fontawesome-svg-core.svg?style=flat-square)](https://www.npmjs.com/package/@ds/fontawesome-svg-core)
 
 ## Installation
 
 ```
-$ npm i --save @manysale/fontawesome-svg-core
+$ npm i --save @ds/fontawesome-svg-core
 ```
 
 Or
 
 ```
-$ yarn add @manysale/fontawesome-svg-core
+$ yarn add @ds/fontawesome-svg-core
 ```
 
 ## Documentation

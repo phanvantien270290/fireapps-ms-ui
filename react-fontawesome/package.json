@@ -1,22 +1,22 @@
 {
     "_args": [
         [
-            "@manysale/react-fontawesome@0.1.14"
+            "@ds/react-fontawesome@0.1.14"
         ]
     ],
-    "_from": "@manysale/react-fontawesome@0.1.14",
-    "_id": "@manysale/react-fontawesome@0.1.14",
+    "_from": "@ds/react-fontawesome@0.1.14",
+    "_id": "@ds/react-fontawesome@0.1.14",
     "_inBundle": false,
     "_integrity": "sha512-4wqNb0gRLVaBm/h+lGe8UfPPivcbuJ6ecI4hIgW0LjI7kzpYB9FkN0L9apbVzg+lsBdcTf0AlBtODjcSX5mmKA==",
-    "_location": "/@manysale/react-fontawesome",
+    "_location": "/@ds/react-fontawesome",
     "_phantomChildren": {},
     "_requested": {
         "type": "version",
         "registry": true,
-        "raw": "@manysale/react-fontawesome@0.1.14",
-        "name": "@manysale/react-fontawesome",
-        "escapedName": "@manysale%2freact-fontawesome",
-        "scope": "@manysale",
+        "raw": "@ds/react-fontawesome@0.1.14",
+        "name": "@ds/react-fontawesome",
+        "escapedName": "@ds%2freact-fontawesome",
+        "scope": "@ds",
         "rawSpec": "0.1.14",
         "saveSpec": null,
         "fetchSpec": "0.1.14"
@@ -24,7 +24,7 @@
     "_requiredBy": [
         "/"
     ],
-    "_resolved": "https://npm.fontawesome.com/@manysale/react-fontawesome/-/0.1.14/react-fontawesome-0.1.14.tgz",
+    "_resolved": "https://npm.fontawesome.com/@ds/react-fontawesome/-/0.1.14/react-fontawesome-0.1.14.tgz",
     "_spec": "0.1.14",
     "_where": "/Users/lexuanvu/Desktop/Desktop/flow/flowio-fe",
     "browserslist": [
@@ -103,8 +103,8 @@
         "@babel/preset-env": "^7.7.5",
         "@babel/preset-react": "^7.7.4",
         "@babel/preset-stage-3": "^7.0.0",
-        "@manysale/fontawesome-svg-core": "^1.2.32",
-        "@manysale/free-solid-svg-icons": "^5.15.1",
+        "@ds/fontawesome-svg-core": "^1.2.32",
+        "@ds/free-solid-svg-icons": "^5.15.1",
         "@types/react": "^16.9.15",
         "babel-eslint": "^10.0.3",
         "babel-jest": "^24.9.0",
@@ -155,9 +155,9 @@
     },
     "main": "index.js",
     "module": "index.es.js",
-    "name": "@manysale/react-fontawesome",
+    "name": "@ds/react-fontawesome",
     "peerDependencies": {
-        "@manysale/fontawesome-svg-core": "^1.2.32",
+        "@ds/fontawesome-svg-core": "^1.2.32",
         "react": ">=16.x"
     },
     "repository": {
@@ -168,9 +168,9 @@
        
         "prettier": "pretty-quick --pattern src/** --staged",
         "test": "npm run test.latest && npm run test.next",
-        "test.latest": "npm --no-save install @manysale/fontawesome-svg-core@latest @manysale/free-solid-svg-icons@latest && jest --silent",
-        "test.next": "npm --no-save install @manysale/fontawesome-svg-core@next @manysale/free-solid-svg-icons@next && jest --silent",
-        "test.next.proregistry": "npm --userconfig .npmrc.proregistry --registry https://npm.fontawesome.com install --no-save @manysale/fontawesome-svg-core@next @manysale/free-solid-svg-icons@next && jest --silent"
+        "test.latest": "npm --no-save install @ds/fontawesome-svg-core@latest @ds/free-solid-svg-icons@latest && jest --silent",
+        "test.next": "npm --no-save install @ds/fontawesome-svg-core@next @ds/free-solid-svg-icons@next && jest --silent",
+        "test.next.proregistry": "npm --userconfig .npmrc.proregistry --registry https://npm.fontawesome.com install --no-save @ds/fontawesome-svg-core@next @ds/free-solid-svg-icons@next && jest --silent"
     },
     "types": "index.d.ts",
     "version": "0.1.14"

@@ -1,4 +1,4 @@
-import { parse, icon } from '@manysale/fontawesome-svg-core';
+import { parse, icon } from '@ds/fontawesome-svg-core';
 import PropTypes from 'prop-types';
 import React from 'react';
 

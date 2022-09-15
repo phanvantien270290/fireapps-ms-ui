@@ -1,8 +1,8 @@
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined'
-        ? factory(exports, require('@manysale/fontawesome-svg-core'), require('prop-types'), require('react'))
+        ? factory(exports, require('@ds/fontawesome-svg-core'), require('prop-types'), require('react'))
         : typeof define === 'function' && define.amd
-        ? define(['exports', '@manysale/fontawesome-svg-core', 'prop-types', 'react'], factory)
+        ? define(['exports', '@ds/fontawesome-svg-core', 'prop-types', 'react'], factory)
         : ((global = global || self), factory((global['react-fontawesome'] = {}), global.FontAwesome, global.PropTypes, global.React));
 })(this, function (exports, fontawesomeSvgCore, PropTypes, React) {
     'use strict';

@@ -1,6 +1,6 @@
 /// <reference types="react" />
 import { CSSProperties, SVGAttributes } from 'react';
-import { Transform, IconProp, FlipProp, SizeProp, PullProp, RotateProp, FaSymbol } from '@manysale/fontawesome-svg-core';
+import { Transform, IconProp, FlipProp, SizeProp, PullProp, RotateProp, FaSymbol } from '@ds/fontawesome-svg-core';
 
 export function FontAwesomeIcon(props: FontAwesomeIconProps): JSX.Element;
 

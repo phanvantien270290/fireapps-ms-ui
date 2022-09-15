@@ -21,7 +21,7 @@
     "node": ">=6"
   },
   "version": "0.2.32",
-  "name": "@manysale/fontawesome-common-types",
+  "name": "@ds/fontawesome-common-types",
   "license": "MIT",
   "types": "./index.d.ts",
   "scripts": {

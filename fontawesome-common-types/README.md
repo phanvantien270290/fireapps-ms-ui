@@ -1,8 +1,8 @@
-# @manysale/fontawesome-common-types - SVG with JavaScript
+# @ds/fontawesome-common-types - SVG with JavaScript
 
 > "I came here to chew bubblegum and install Font Awesome 5 - and I'm all out of bubblegum"
 
-[![npm](https://img.shields.io/npm/v/@manysale/fontawesome-common-types.svg?style=flat-square)](https://www.npmjs.com/package/@manysale/fontawesome-common-types)
+[![npm](https://img.shields.io/npm/v/@ds/fontawesome-common-types.svg?style=flat-square)](https://www.npmjs.com/package/@ds/fontawesome-common-types)
 
 ## What is this package?
 
@@ -17,7 +17,7 @@ your.ts
 ```
 import {
   IconName
-} from `@manysale/fontawesome-svg-core`
+} from `@ds/fontawesome-svg-core`
 
 const myIcon: IconName = "..."
 ```

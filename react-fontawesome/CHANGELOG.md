@@ -10,7 +10,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Added
 
--   Support for the new parse.icon function from the Font Awesome version 6 @manysale/fontawesome-svg-core
+-   Support for the new parse.icon function from the Font Awesome version 6 @ds/fontawesome-svg-core
 
 ---
 
@@ -160,7 +160,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 -   Documentation and example improvements
 -   Use cross-env to support Windows
--   Support for @manysale/fontawesome 1.1.0
+-   Support for @ds/fontawesome 1.1.0
 
 ---
 

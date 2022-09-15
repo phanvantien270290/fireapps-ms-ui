@@ -1,19 +1,19 @@
-# @manysale/pro-light-svg-icons - SVG with JavaScript version
+# @ds/pro-light-svg-icons - SVG with JavaScript version
 
 > "I came here to chew bubblegum and install Font Awesome 5 - and I'm all out of bubblegum"
 
-[![npm](https://img.shields.io/npm/v/@manysale/pro-light-svg-icons.svg?style=flat-square)](https://www.npmjs.com/package/@manysale/pro-light-svg-icons)
+[![npm](https://img.shields.io/npm/v/@ds/pro-light-svg-icons.svg?style=flat-square)](https://www.npmjs.com/package/@ds/pro-light-svg-icons)
 
 ## Installation
 
 ```
-$ npm i --save @manysale/pro-light-svg-icons
+$ npm i --save @ds/pro-light-svg-icons
 ```
 
 Or
 
 ```
-$ yarn add @manysale/pro-light-svg-icons
+$ yarn add @ds/pro-light-svg-icons
 ```
 
 ## Documentation

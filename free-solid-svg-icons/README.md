@@ -1,19 +1,19 @@
-# @manysale/free-solid-svg-icons - SVG with JavaScript version
+# @ds/free-solid-svg-icons - SVG with JavaScript version
 
 > "I came here to chew bubblegum and install Font Awesome 5 - and I'm all out of bubblegum"
 
-[![npm](https://img.shields.io/npm/v/@manysale/free-solid-svg-icons.svg?style=flat-square)](https://www.npmjs.com/package/@manysale/free-solid-svg-icons)
+[![npm](https://img.shields.io/npm/v/@ds/free-solid-svg-icons.svg?style=flat-square)](https://www.npmjs.com/package/@ds/free-solid-svg-icons)
 
 ## Installation
 
 ```
-$ npm i --save @manysale/free-solid-svg-icons
+$ npm i --save @ds/free-solid-svg-icons
 ```
 
 Or
 
 ```
-$ yarn add @manysale/free-solid-svg-icons
+$ yarn add @ds/free-solid-svg-icons
 ```
 
 ## Documentation
